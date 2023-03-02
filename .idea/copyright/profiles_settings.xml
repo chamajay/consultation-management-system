@@ -1,0 +1,7 @@
+<component name="CopyrightManager">
+  <settings default="tst">
+    <module2copyright>
+      <element module="Open Files" copyright="tst" />
+    </module2copyright>
+  </settings>
+</component>
