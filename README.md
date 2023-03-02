@@ -2,7 +2,7 @@
 A Java Swing application for scheduling and managing consultations, featuring a console and a modern user-friendly GUI.
 
 <p align="center">
-  <img alt="VS Code in action" src="screenshots/ss_1.png">
+  <img alt="WSCC in action" src="screenshots/ss_1.png">
 </p>
 
 ## Features
