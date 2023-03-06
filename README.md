@@ -19,6 +19,15 @@ A Java Swing application for scheduling and managing consultations, featuring a 
 - LGoodDatePicker: v11.2.1
 - JUnit: v5.9.1
 
+## Screenshots
+|             Add Consultation              |             View Consultation              |
+|:-----------------------------------------:|:------------------------------------------:|
+| ![Add consultation](screenshots/ss_2.png) | ![View consultation](screenshots/ss_3.png) |
+
+|             Full Image Viewer              |             Edit Consultation              |
+|:------------------------------------------:|:------------------------------------------:|
+| ![Full image viewer](screenshots/ss_4.png) | ![Edit consultation](screenshots/ss_5.png) |
+
 ## Usage
 1. Clone the repository: 
 
